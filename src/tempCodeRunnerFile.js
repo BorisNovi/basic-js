@@ -1,1 +1,1 @@
-return s1 || [];
+.reverse()
