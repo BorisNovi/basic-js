@@ -1,2 +1,1 @@
-getSumOfDigits(91)
-// getSumOfDigits(901)
+console.log(n);
